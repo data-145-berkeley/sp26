@@ -45,7 +45,7 @@ favicon_ico: "/favicon.png"
 
 aux_links:
   Course Notes:
-    - 'https://data145.org/course_notes/'
+    - 'https://data145.org/course-notes/'
   DataHub:
     - 'https://datahub.berkeley.edu/hub/home'
   Ed:
