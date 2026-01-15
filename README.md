@@ -5,6 +5,7 @@
 ## Notes
 1. Some information that was on Will's original draft website has been commented out on `home.md` to keep the look of the site similar to other DATA sites. Feel free to modify as needed. 
 1. If you want to modify the schedule, check out the `_data/` folder. `_data/syllabus.yml` constructs the calendar and has exams. `_data/lectures.yml` has the lecture ordering. If you want to include more than a single link for a lecture, I suggest you use the `_lectures/` collection. If you need additional guidance on using collections, please reach out Silas. The template does not have anything specifically called worksheets, I have used all the functionality built for homeworks instead. To modify anything about worksheets, look for homeworks instead. The only actual modification of the template code was changing the label to read "Worksheet" instead of "Homework".
+2. The most recent announcement is what will show up on the home page. Add a new file to `_announcements/` for each week. Once you add the file, it'll show on the website!
 1. Fun things: if you get a course logo, you can add it to this repo and adjust `_config.yml`
 1. Fun things again: Add course staff headshots to `assets/images/`. You can adjust any files in `_staffers/` as desired. Add text outside the front matter for bios.
 
