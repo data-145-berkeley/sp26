@@ -31,7 +31,7 @@ extra_links_col3:
 class_days: ['2', '4']
 discussion_days: ['5']
 lab_days: [] 
-hw_days: ['2'] # worksheets are relased on tuesdays
+hw_days: ['2'] # worksheets are released on Tuesdays, due the following Monday at 5pm
 
 # Where should we start automatically numbering each course component?
 # For example, if you set starting_homework_number to 0, then the first homework

@@ -17,7 +17,7 @@
 # TODO(setup): Typically the course number, "DEPT XXX". it appears on nearly every page. Keep it short. :)
 title: Data 145
 # TODO:(setup): This should be the extended title of your course. e.g. "Introduction to Data Science"
-tagline: Evidence and Unvertainty
+tagline: Evidence and Uncertainty
 description: 
 # TODO(template): this should be built from the staff list...
 author: Data 145 Staff
@@ -51,7 +51,7 @@ aux_links:
   Ed:
     - 'https://edstem.org/us/courses/90354/discussion'
   Gradescope:
-    - 'https://www.gradescope.com/courses/'
+    - 'https://www.gradescope.com/courses/1206670'
   bCourses:
     - 'https://bcourses.berkeley.edu/courses/1551142'
 
